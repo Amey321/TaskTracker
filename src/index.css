@@ -1,0 +1,121 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: mediumspringgreen;
+}
+.closeform {
+  border: solid black 3px;
+  cursor: pointer;
+  position: relative;
+  text-align: center;
+  left: 1210px;
+  bottom: 125px;
+  line-height: 10px;
+  padding: 10px;
+  font-weight: bold;
+  background-color: red;
+  font-size: large;
+  color: blanchedalmond;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+header {
+  border: 2px solid black;
+  margin: 40px;
+  line-height: 150px;
+  padding-left: 300px;
+  font-weight: bold;
+  font-size: large;
+  background-color: rgb(255, 197, 91);
+}
+.abc label {
+display: block;
+}
+.abc input {
+  
+  padding-right: 1100px;
+}
+
+.b input {
+  position: relative;
+  left: 10px;
+  top: 2px;
+  width: 15px;
+  height: 15px;
+  cursor: pointer;
+}
+.form {
+  position: relative;
+  left: 40px;
+  font-weight: bold;
+  border: solid black 4px;
+  background-color: blueviolet;
+  margin-right: 80px;
+  padding-left: 40px;
+  font-size: large;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+.enttask label {
+  display: block;
+}
+.enttask input {
+  padding-right: 1100px;
+}
+.subbtn {
+  background-color: rgb(24, 224, 24);
+  font-size: large;
+  font-weight: bold;
+  border: solid black 5px;
+  position: relative;
+  top: 18px;
+  bottom: 20px;
+  left: 618px;
+  cursor: pointer;
+}
+.delbtn {
+  color: white;
+  background-color:red;
+  border: 4px solid black;
+  border-radius: 20%;
+  cursor: pointer;
+  position: relative;
+  bottom: 70px;
+  font-size: large;
+  padding: 5px;
+  left: 1000px;
+  text-align: center;
+  letter-spacing: 1px;
+  
+}
+.singletask {
+  margin: 20px;
+  margin-right: 60px;
+  position: relative;
+  left: 20px;
+  padding-left: 100px;
+  padding-top: 40px;
+  font-weight: bold;
+  font-size: large;
+  line-height: 20px;
+  background-color: rgb(160, 153, 153);
+  border: 3px solid black;
+}
+.btn {
+  position: absolute;
+  left: 1000px;
+  top: 116px;
+  color: white;
+  background-color: black;
+  font-weight: bold;
+  border-radius: 20%;
+  padding: 15px;  
+  text-align: center;
+  cursor: pointer;
+}
